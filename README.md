@@ -2,11 +2,11 @@
 
 C++ implementation of functionalities (insertion, deletion, search) of 2-3-Tree (self-balancing tree). 
 
-Made  by: Sovannara Chou
+Made by: Sovannara Chou
 
-This is one of my projects in Data Structures, Algorithms, and Discrete Mathematics II. 
+This is one of my projects in Data Structures, Algorithms, and Discrete Mathematics II (CSS 343) at UWB. 
 
-Project goal: creating a 2-3tree to build balancing tree working with more than 100k input values. 
+Project goal: creating a 2-3tree to build balancing tree working up to 100k input values. PASS TEST!
 
 **Description:**
 
