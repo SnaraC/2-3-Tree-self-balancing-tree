@@ -18,6 +18,6 @@ Project goal: creating a 2-3tree to build balancing tree working up to 100k inpu
   - Use split helper function to split the node if tree node is full(3 node) for balancing purpose. 
 
 
-**- Remove** 
+**Remove** 
   - Use find function to find the node then use remove function to remove data/value.
   - Use Merge function to merge the node if tree node is empty for balancing purpose.
